@@ -4,7 +4,7 @@ Using the Pima Indian Diabetes dataset, created two machine learning models to p
 ### Pima Indian Diabetes Dataset
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database/code
 
-### Libraries used
+### Libraries used within Jupyter Notebook
 - pandas
 - numpy
 - seaborn
